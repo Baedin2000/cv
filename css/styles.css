@@ -1,0 +1,149 @@
+/*
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  font-weight: bold;
+}
+
+.topContainer {
+  position: relative;
+  padding-top: 100px;
+  background-color: #eaf6f6;
+}
+
+.BottomContainer {
+  color: #eaf6f6;
+  background-color: #66bfbf;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  margin-bottom: 0;
+  height: 50px;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+  width: 100%;
+  height: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  overflow: auto;
+}
+
+.ElectronicArts {
+  text-decoration: underline;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.programming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.eating {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-top: 6px dotted #797979;
+  border-left: 0;
+  width: 3%;
+  margin: 100px auto 100px auto;
+}
+
+.introduction {
+  width: 560px;
+  height: 50px;
+  margin: 50px auto 50px auto;
+  color: #40514e;
+}
+
+.textbottom {
+  font-weight: bold;
+}
+.button {
+  margin-bottom: 75px;
+}
+
+.btn {
+  margin: 50px auto 50px auto;
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: -moz-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: -ms-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: -o-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: linear-gradient(to bottom, #66bfbf, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.website1 {
+  font-weight: bold;
+  line-height: 30px;
+  color: #11999e;
+  margin-bottom: 20px;
+  margin-right: 50px;
+}
+.website2 {
+  font-weight: bold;
+  line-height: 30px;
+  color: #11999e;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.numefinal {
+  position: relative;
+  margin-bottom: 50px;
+  top: 10px;
+}
